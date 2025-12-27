@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { FaTwitter, FaLinkedin, FaFacebook, FaInstagram, FaWhatsapp } from "react-icons/fa";
 import { NavLink } from "react-router-dom";
 import { FiMenu } from "react-icons/fi";
-import "./Navbar.css";
+import "./navbar.css";
 import saoodlogo from "../assets/sad@3x.png";
 
 const Navbar = () => {
